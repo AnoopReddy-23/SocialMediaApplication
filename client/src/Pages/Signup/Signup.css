@@ -1,0 +1,6 @@
+.register-form Form Button{
+    display: flex;
+    margin: auto;
+    font-size: large;
+    padding: 14px 22px;
+}

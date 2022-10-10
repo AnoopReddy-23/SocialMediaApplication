@@ -1,0 +1,9 @@
+.login-form Form Button{
+    display: flex;
+    margin: auto;
+    padding: 18px;
+}
+
+.login-form .text:hover{
+    cursor: pointer;
+}

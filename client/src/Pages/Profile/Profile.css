@@ -1,0 +1,33 @@
+.my-profile{
+    max-width: 650px;
+    margin: 0px auto;
+}
+
+.profile{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px 0px;
+    border-bottom: 1px solid gray;
+}
+
+.profile .details{
+    width: 300px;
+}
+
+.profile .details .acc-info{
+    display: flex;
+    justify-content: space-between;
+}
+
+.posts{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.posts .post{
+    width: 30%;
+    margin: 6px;
+    padding: 8px;
+}

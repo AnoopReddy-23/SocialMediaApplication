@@ -1,0 +1,18 @@
+.home .card{
+    max-width: 520px;
+    height: max-content;
+    margin: 25px auto;
+}
+
+.home .card .title{
+    padding: 12px;
+}
+
+.home .card .icon{
+    cursor: pointer;
+}
+
+.home .card .icon-delete{
+    cursor: pointer;
+    float: right;
+}
